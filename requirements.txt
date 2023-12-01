@@ -1,0 +1,4 @@
+pandas==1.4.2
+requests==2.28.1
+sqlalchemy==1.4.36
+pyodbc==4.0.32  # If using ODBC for SQL connections
